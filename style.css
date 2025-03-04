@@ -28,7 +28,16 @@ body {
         gap: 10px;
         justify-content: center;
     }
-    
+    .result{
+        size: 100px;
+       text-align: center;
+        height: 60px;
+        border-radius: 50%;
+        font-size: 1.5em;
+        border: none;
+        
+    }
+
 button {
     width: 60px;
     height: 60px;
@@ -49,3 +58,4 @@ button {
     background-color: gray;
     color: black;
 }
+
