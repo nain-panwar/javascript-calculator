@@ -6,6 +6,7 @@ body {
     background-color: black;
 }
 .calculator {
+    border: 1px solid white;
     width: 300px;
     background-color: black;
     border-radius: 10px;
@@ -38,8 +39,8 @@ body {
         
     }
     input[type="text"]{
-        height:20px ;
-        width: 230px;
+        height:40px ;
+        width: 240px;
     }
 
 
